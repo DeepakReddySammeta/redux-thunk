@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "name": "Krish",
+      "address": "China",
+      "email": "krish@gmail.com",
+      "id": 2,
+      "contact": "122344459237"
+    },
+    {
+      "name": "Hari",
+      "address": "Netherlands",
+      "email": "hari98@gmail.com",
+      "id": 5,
+      "contact": "9876543219"
+    },
+    {
+      "name": "Ram",
+      "address": "Greenland",
+      "email": "ram@gmail.com",
+      "id": 8,
+      "contact": "976503421"
+    },
+    {
+      "name": "Arpith",
+      "address": "South Korea",
+      "email": "arpith@gmail.com",
+      "id": 9,
+      "contact": "123443215"
+    },
+    {
+      "name": "Prashanth",
+      "address": "North Korea",
+      "email": "prashanth@gmail.com",
+      "id": 10,
+      "contact": "0987612345"
+    },
+    {
+      "name": "Sajjad",
+      "email": "Saj@gmail.com",
+      "contact": "87654333566",
+      "address": "bangkok",
+      "id": 11
+    },
+    {
+      "name": "yerru ",
+      "email": "yerru@gmail.com",
+      "contact": "7483985",
+      "address": "zimbzbey",
+      "id": 12
+    }
+  ]
+}
